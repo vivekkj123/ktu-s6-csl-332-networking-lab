@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.css": "css",
+        "inet.h": "c",
+        "unistd.h": "c",
+        "stdlib.h": "c"
+    }
+}
